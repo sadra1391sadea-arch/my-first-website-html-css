@@ -1,10 +1,10 @@
 # my-first-website-html-css
+
 # My First Website
 
 This is my first website project, created while learning web development.
 
-![My First Website](assets/website.png)
-
+<img src="assets/website.png" alt="My First Website" width="400">
 
 ## Technologies
 
