@@ -32,3 +32,6 @@ You can see the live website here:
 
 Created by me as my first web development project.
 
+## Support
+
+I’d appreciate your support! 
