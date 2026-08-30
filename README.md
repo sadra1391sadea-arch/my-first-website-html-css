@@ -34,4 +34,4 @@ Created by me as my first web development project.
 
 ## Support
 
-I’d appreciate your support! 
+I’d be happy if you supported me by giving this project a star! 
