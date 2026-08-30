@@ -3,6 +3,9 @@
 
 This is my first website project, created while learning web development.
 
+![My First Website](assets/website.png)
+
+
 ## Technologies
 
 * HTML
